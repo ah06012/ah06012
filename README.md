@@ -7,7 +7,7 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/ahmed-a-194582
 ## Data Science
 [Regression Analysis](https://github.com/ah06012/Regression_analysis_R) - A simple linear regression model to predict UK's population growth over time.
 
-[Data Storytelling: Platform Usage Patterns](https://github.com/ah06012/Regression_analysis_R) - A data storytelling project examining platform preferences among software developers using R to analyze and visualize survey data from nearly 10,000 respondents.
+[Data Storytelling: Platform Usage Patterns](https://github.com/ah06012/A_Data_Storytelling_Analysis) - A data storytelling project examining platform preferences among software developers using R to analyze and visualize survey data from nearly 10,000 respondents.
 
 
 [Cyclistic Bike Share: Member vs. Casual Rider Usage Analysis](https://github.com/ah06012/Bike_Share_Scheme_Analysis) - A data storytelling project examining platform preferences among software developers using R to analyze and visualize survey data from nearly 10,000 respondents.An analysis of Cyclistic bike-share usage patterns comparing ride duration and frequency between casual and member riders across different days of the week.RetryClaude can make mistakes. Please double-check responses.
