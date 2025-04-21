@@ -7,4 +7,4 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/ahmed-a-194582
 ## Data Science
 [Regression Analysis](https://github.com/ah06012/Regression_analysis_R) - A simple linear regression model to predict UK's population growth over time.
 
-[Data Storytelling:Platform Usage Patterns](https://github.com/ah06012/Regression_analysis_R) - A data storytelling project examining platform preferences among software developers using R to analyze and visualize survey data from nearly 10,000 respondents.
+[Data Storytelling: Platform Usage Patterns](https://github.com/ah06012/Regression_analysis_R) - A data storytelling project examining platform preferences among software developers using R to analyze and visualize survey data from nearly 10,000 respondents.
