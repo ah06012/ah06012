@@ -1,4 +1,4 @@
-Hi there,
+Hi,
 
 I'm Ahmed and I work as a data scientist/engineer in the energy sector. I've joined GitHub to publish data science projects that explore various analytics tools and techniques. If you're interested, please find the project details below.
 
