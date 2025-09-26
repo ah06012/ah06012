@@ -23,7 +23,7 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/ahmed-a-194582
 Here’s an interactive dashboard I built in Power BI for regulatory reporting (R1 & R2).  
 It checks transaction quality, flags issues, and provides clear visibility into in-scope vs excluded transactions.
 
-👉 [Click here to view the live interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjA4Y2JhMWItM2FiMi00NGZiLTk2OTItNDI0NGM5ZWIxNDNhIiwidCI6ImZlNjlkYjZiLTkwMjYtNDkzNS1iNjAyLWQ2ZmVkYTE5ZWVkMyJ9)
+👉 [Click here to view the live interactive dashboard](https://app.powerbi.com/reportEmbed?reportId=12a5f23f-7b0f-4749-9500-10a1ac10a16d&appId=5c0052ec-ef55-4d8e-9e5d-310eeaf05c4e&autoAuth=true&ctid=fe69db6b-9026-4935-b602-d6feda19eed3)
 
 ![Dashboard Screenshot](dashboard.png)
 
