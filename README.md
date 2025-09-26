@@ -18,6 +18,16 @@ Feel free to message me on [LinkedIn](https://www.linkedin.com/in/ahmed-a-194582
 [CH₄ Analytics: Predicting & Benchmarking Methane Eructation in Cows](https://github.com/ah06012/End_to_End_Methane_Analytics_for_Dairy_Cows) - End‑to‑end pipeline that ingests Zelp collar data to monitor, analyse, and forecast CH₄ emissions in dairy cows.
 
 
+## 📊 Analytics Case Study Dashboard
+
+Here’s an interactive dashboard I built in Power BI for regulatory reporting (R1 & R2).  
+It checks transaction quality, flags issues, and provides clear visibility into in-scope vs excluded transactions.
+
+👉 [Click here to view the live interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjA4Y2JhMWItM2FiMi00NGZiLTk2OTItNDI0NGM5ZWIxNDNhIiwidCI6ImZlNjlkYjZiLTkwMjYtNDkzNS1iNjAyLWQ2ZmVkYTE5ZWVkMyJ9)
+
+![Dashboard Screenshot](dashboard.png)
+
+
 
 
 
